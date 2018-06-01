@@ -1,0 +1,63 @@
+
+* Get out of the spy-cloud
+** Get off Facebook
+*** Why get off facebook?
+*** What replaces facebook?
+** Get off Google
+*** Why get off google?
+*** What replaces google?
+** Who else has a spy cloud?
+*** Amazon
+*** Apple
+*** Microsoft
+
+
+* Long Copyright Terms are Dumb
+
+There's no reason why a reboot by the copyright holder should have any
+legal primacy over anyone else using the characters.
+
+ - Star Wars
+ - Star Trek
+
+Lindsay Ellis
+on The Hobbit
+https://www.youtube.com/watch?v=uTRUQ-RKfUs
+
+
+* History of Monopolies
+
+From toilet paper to Epi-pens.
+
+Especially in medicine, where the government is going to pay for it anyway,
+giving a private monopolies is the definition of corruption.
+
+
+
+* Science and reproducable software
+
+Science requires that results be published, which means a description of the
+experiment, analysis, and results sufficient for verification. There are two
+parts to scientific verification: checking for clear errors (e.g. mathematical
+mistakes) and replicating the experiment. Checking for errors is a prerequisite
+of replication - replicating a faulty experiment or analysis isn't useful.
+
+When software is used in any step of the process, that software is part of the
+experimental or anlytical procedure. Just like the description of the experiment
+and analysis, the software should be part of the publication.
+
+That means publishing:
+
+ - Full source code
+ - Build instructions
+ - Where to download source code / build instructions of dependencies.
+
+That last bit is important. An experiment that depends on something like Matlab
+or CUDA can't be properly published or verified. It can be replicated, but only
+with those programs as black-box components. It *might* be possible to do a
+black-box analysis of a software package to get scientific evidence that it
+works a certain way, but A. that's dumb and B. people don't actually do it.
+
+http://blog.khinsen.net/posts/2017/01/13/sustainable-software-and-reproducible-research-dealing-with-software-collapse/
+
+
