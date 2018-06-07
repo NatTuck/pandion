@@ -205,9 +205,15 @@ Facebook has tweaked their service to look better, but their business model
 depends on building and sharing your data ghost. [That hasn't
 changed](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html).
 
+
+[Facebook scans and may block private messages.](https://www.bloomberg.com/news/articles/2018-04-04/facebook-scans-what-you-send-to-other-people-on-messenger-app)
+
+## If We Do Nothing
+
 Allowing this sort of targeted manipulation + filter bubble world to progress
 is a 
 [really bad idea](http://www.antipope.org/charlie/blog-static/2018/05/happy-21st-century.html).
 
-[Facebook scans and may block private messages.](https://www.bloomberg.com/news/articles/2018-04-04/facebook-scans-what-you-send-to-other-people-on-messenger-app)
+In China, [the dystopian future](https://boingboing.net/2018/06/07/xi-bop.html)
+brought about by rampant creation and abuse of data ghosts is already here.
 
