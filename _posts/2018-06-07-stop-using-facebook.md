@@ -208,6 +208,10 @@ changed](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-devi
 
 [Facebook scans and may block private messages.](https://www.bloomberg.com/news/articles/2018-04-04/facebook-scans-what-you-send-to-other-people-on-messenger-app)
 
+Facebook whitelisted commercial API users for [extended personal data access](https://www.engadget.com/2018/06/08/facebook-reportedly-sold-user-data-to-businesses-in-secret-deals/). Before 2015 it was a free for all. Cambridge Analytica
+got access in 2016 as "academic" users. Various companies like Nissan were explicitly whitelisted to keep using
+the pre-2015 APIs.
+
 ## If We Do Nothing
 
 Allowing this sort of targeted manipulation + filter bubble world to progress

@@ -6,7 +6,7 @@
 ** Get off Google
 *** Why get off google?
 *** What replaces google?
-** Who else has a spy cloud?
+* Who else has a spy cloud?
 *** Amazon
 *** Apple
 *** Microsoft
@@ -14,8 +14,8 @@
 
 * Long Copyright Terms are Dumb
 
-There's no reason why a reboot by the copyright holder should have any
-legal primacy over anyone else using the characters.
+There's no reason why a reboot by the copyright holder should 
+have any legal primacy over anyone else using the characters.
 
  - Star Wars
  - Star Trek
