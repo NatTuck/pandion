@@ -149,7 +149,7 @@ To get started, go to [Join Mastodon](https://joinmastodon.org/).
 
 If you're interested in excess technical detail about software alternatives, a
 good place to start is [fedverse.network](https://fediverse.network/) and
-[here](https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334).
+[here](https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334) and [here](https://the-federation.info/).
 
 Here's [my fedverse account](https://ferrus.net/@nat).
  
@@ -217,3 +217,7 @@ is a
 In China, [the dystopian future](https://boingboing.net/2018/06/07/xi-bop.html)
 brought about by rampant creation and abuse of data ghosts is already here.
 
+
+### More Links
+
+ - https://www.independent.co.uk/news/uk/home-news/british-army-recruit-soldiers-gcse-results-facebook-twitter-child-soliders-international-a8390961.html
