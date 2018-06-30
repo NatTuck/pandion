@@ -60,4 +60,6 @@ works a certain way, but A. that's dumb and B. people don't actually do it.
 
 http://blog.khinsen.net/posts/2017/01/13/sustainable-software-and-reproducible-research-dealing-with-software-collapse/
 
+* The Enlightenment Was Great
 
+https://www.youtube.com/watch?v=tfXLsKQfVlE
