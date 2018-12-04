@@ -1,4 +1,3 @@
-
 * Get out of the spy-cloud
 ** Get off Facebook
 *** Why get off facebook?
@@ -11,7 +10,6 @@
 *** Apple
 *** Microsoft
 
-
 * Long Copyright Terms are Dumb
 
 There's no reason why a reboot by the copyright holder should 
@@ -21,9 +19,17 @@ have any legal primacy over anyone else using the characters.
  - Star Trek
 
 Lindsay Ellis
-on The Hobbit
+on The Hobbit Movie
 https://www.youtube.com/watch?v=uTRUQ-RKfUs
 
+David Stewart
+on the Monetization Cycle
+https://www.youtube.com/watch?v=hwEd4_LFQv0
+
+* Copyright at all is dumb
+
+Copyright is Brain Damage: https://www.youtube.com/watch?v=XO9FKQAxWZc
+Copying is not Theft: https://www.youtube.com/watch?v=IeTybKL1pM4
 
 * History of Monopolies
 
@@ -31,7 +37,6 @@ From toilet paper to Epi-pens.
 
 Especially in medicine, where the government is going to pay for it anyway,
 giving a private monopolies is the definition of corruption.
-
 
 
 * Science and reproducable software

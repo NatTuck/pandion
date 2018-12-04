@@ -225,3 +225,24 @@ brought about by rampant creation and abuse of data ghosts is already here.
 ### More Links
 
  - https://www.independent.co.uk/news/uk/home-news/british-army-recruit-soldiers-gcse-results-facebook-twitter-child-soliders-international-a8390961.html
+ - http://adam.curry.com/art/1521216971_gv2QEMBJ.html
+ - https://www.kqed.org/futureofyou/379828/tech-insiders-call-out-facebook-for-literally-manipulating-your-brain
+
+Facebook *cannot* safely be used for any sort of social activism:
+
+https://boingboing.net/2018/08/02/shut-it-down-dc.html
+
+
+"Their reams of data converged on a breathtaking statistic: Wherever per-person Facebook use rose to one standard deviation above the national average, attacks on refugees increased by about 50 percent."
+
+https://www.nytimes.com/2018/08/21/world/europe/facebook-refugee-attacks-germany.html
+
+https://gizmodo.com/facebook-twitter-execs-admit-failures-warn-of-overwhe-1828829221
+
+
+https://theintercept.com/2018/09/14/facebook-weekly-standard-suppressed-a-story-about-brett-kavanaughs-opposition-to-roe-v-wade-were-republishing-it/
+
+Facebook harvested phone contact data and shared it with advertisers:
+https://www.nytimes.com/2018/10/06/opinion/sunday/facebook-privacy-breach-zuckerberg.html
+
+
