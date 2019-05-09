@@ -28,7 +28,7 @@ stuff directly to your audience if they subscribe to your feed.
 
 ## Log In
 
-The reader is hosted at https://feeds.fogcloud.org/
+The reader is hosted at <https://feeds.fogcloud.org/>
 
 Log in with your fogcloud username and password.
 
@@ -44,19 +44,21 @@ Luckly, third party addons provide support.
 
 Install these two addons:
 
- * https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/
- * https://addons.mozilla.org/en-US/firefox/addon/tiny-tiny-rss-watcher/
+ * <https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/>
+ * <https://addons.mozilla.org/en-US/firefox/addon/tiny-tiny-rss-watcher/>
 
-Configure both addons with the URL to the tt-rss instance (https://feeds.fogcloud.org/).
+Configure both addons with the URL to the tt-rss instance (
+https://feeds.fogcloud.org/ ).
 
 ### Browser: Chrome
 
 Install these two addons:
 
- * https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd
- * https://chrome.google.com/webstore/detail/tiny-tiny-rss-checker/injnpmieoiaflnemdibhkflicchhaldh?hl=en
+ * <https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd>
+ * <https://chrome.google.com/webstore/detail/tiny-tiny-rss-checker/injnpmieoiaflnemdibhkflicchhaldh?hl=en>
 
-Configure both addons with the URL to the tt-rss instance (https://feeds.fogcloud.org/).
+Configure both addons with the URL to the tt-rss instance
+( https://feeds.fogcloud.org/ ).
 
 For the subscription extension, you want to add a reader and enter this as your
 subscription URL [1]
@@ -67,11 +69,11 @@ subscription URL [1]
 
 References:
 
- * [1] https://tt-rss.org/oldforum/viewtopic.php?t=1334
+ * [1] <https://tt-rss.org/oldforum/viewtopic.php?t=1334>
 
 ## Subscribe to some feeds
 
- * Visit https://boingboing.net/
+ * Visit <https://boingboing.net/>
  * To the right of the URL bar, you should get an RSS icon (![rss
    icon](/assets/feed-icon.svg)).
  * Click that, edit the subscription, set a category (e.g. "blogs").
@@ -82,12 +84,12 @@ References:
 The official app is available for money on Google Play. No reason not to give
 them money, but the app is also available through FDroid.
 
-https://f-droid.org/en/packages/org.fox.tttrss/
+<https://f-droid.org/en/packages/org.fox.tttrss/>
 
 ## Uncooperative Sites
 
 Some sites should definitely be viewed via RSS, but don't provide native
-support. The site https://fetchrss.com/ provides the ability to create RSS feeds
+support. The site <https://fetchrss.com/> provides the ability to create RSS feeds
 for some of them, e.g.:
 
  - Public business / group pages on Facebook
