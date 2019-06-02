@@ -245,4 +245,12 @@ https://theintercept.com/2018/09/14/facebook-weekly-standard-suppressed-a-story-
 Facebook harvested phone contact data and shared it with advertisers:
 https://www.nytimes.com/2018/10/06/opinion/sunday/facebook-privacy-breach-zuckerberg.html
 
+https://www.theverge.com/2018/12/5/18127216/facebook-android-call-scraping-high-risk-emails-uk-parliament
 
+https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html?action=click&module=Top%20Stories&pgtype=Homepage
+
+https://boingboing.net/2018/12/19/compulsive-liars.html
+
+https://www.buzzfeednews.com/article/ryanmac/literally-just-a-big-list-of-facebooks-2018-scandals
+
+https://boingboing.net/2019/01/24/quisling-zuckermonsters.html
