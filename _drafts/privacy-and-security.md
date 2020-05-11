@@ -62,3 +62,5 @@ complicated. There are two other common cases to consider:
    if you give it to them.
 
 
+
+https://www.inquirer.com/business/google-chrome-alexa-surveillance-snoop-browser-20190621.html
